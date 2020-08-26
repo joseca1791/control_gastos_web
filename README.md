@@ -1,1 +1,2 @@
-# control_gastos_web
+Project created to control personal expenses.
+Dockerized and served internally.
